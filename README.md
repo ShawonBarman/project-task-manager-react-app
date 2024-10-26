@@ -1,6 +1,8 @@
 # project-task-manager-react-app
 A simple task and project management application built with **React**. This app allows users to create and manage projects, add tasks to those projects, and handle project/task deletion. The state is persisted using **localStorage**, ensuring that your projects and tasks remain saved even after refreshing the browser.
 
+### Live: https://project-task-manager-react-app.netlify.app/
+
 ## Features
 - **Project Management**: Add, delete, and manage multiple projects.
 - **Task Management**: Add and delete tasks within a project.
